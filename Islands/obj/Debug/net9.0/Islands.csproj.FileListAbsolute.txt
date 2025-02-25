@@ -1,0 +1,15 @@
+c:\Dev\Repos\DSAPractice\Islands\bin\Debug\net9.0\Islands.exe
+c:\Dev\Repos\DSAPractice\Islands\bin\Debug\net9.0\Islands.deps.json
+c:\Dev\Repos\DSAPractice\Islands\bin\Debug\net9.0\Islands.runtimeconfig.json
+c:\Dev\Repos\DSAPractice\Islands\bin\Debug\net9.0\Islands.dll
+c:\Dev\Repos\DSAPractice\Islands\bin\Debug\net9.0\Islands.pdb
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.AssemblyInfoInputs.cache
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.AssemblyInfo.cs
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.csproj.CoreCompileInputs.cache
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.sourcelink.json
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.dll
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\refint\Islands.dll
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.pdb
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\Islands.genruntimeconfig.cache
+c:\Dev\Repos\DSAPractice\Islands\obj\Debug\net9.0\ref\Islands.dll

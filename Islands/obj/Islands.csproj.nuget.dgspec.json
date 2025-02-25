@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dev\\Repos\\DSAPractice\\WordSearchDfs\\WordSearchDfs.csproj": {}
+    "c:\\Dev\\Repos\\DSAPractice\\Islands\\Islands.csproj": {}
   },
   "projects": {
-    "c:\\Dev\\Repos\\DSAPractice\\WordSearchDfs\\WordSearchDfs.csproj": {
+    "c:\\Dev\\Repos\\DSAPractice\\Islands\\Islands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dev\\Repos\\DSAPractice\\WordSearchDfs\\WordSearchDfs.csproj",
-        "projectName": "WordSearchDfs",
-        "projectPath": "c:\\Dev\\Repos\\DSAPractice\\WordSearchDfs\\WordSearchDfs.csproj",
+        "projectUniqueName": "c:\\Dev\\Repos\\DSAPractice\\Islands\\Islands.csproj",
+        "projectName": "Islands",
+        "projectPath": "c:\\Dev\\Repos\\DSAPractice\\Islands\\Islands.csproj",
         "packagesPath": "C:\\Users\\mitcheld\\.nuget\\packages\\",
-        "outputPath": "c:\\Dev\\Repos\\DSAPractice\\WordSearchDfs\\obj\\",
+        "outputPath": "c:\\Dev\\Repos\\DSAPractice\\Islands\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

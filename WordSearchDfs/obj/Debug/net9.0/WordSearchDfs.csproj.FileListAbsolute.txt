@@ -12,3 +12,4 @@ c:\Dev\Repos\DSAPractice\WordSearchDfs\obj\Debug\net9.0\refint\WordSearchDfs.dll
 c:\Dev\Repos\DSAPractice\WordSearchDfs\obj\Debug\net9.0\WordSearchDfs.pdb
 c:\Dev\Repos\DSAPractice\WordSearchDfs\obj\Debug\net9.0\WordSearchDfs.genruntimeconfig.cache
 c:\Dev\Repos\DSAPractice\WordSearchDfs\obj\Debug\net9.0\ref\WordSearchDfs.dll
+c:\Dev\Repos\DSAPractice\WordSearchDfs\obj\Debug\net9.0\WordSearchDfs.sourcelink.json
